@@ -5,7 +5,8 @@ Igor Samgin
 
 1. Phone: +38268118447
 2. Email: boolean.pg.me@gmail.com
-3. Discord: Igor Samgin (@Frost704)
+3. Discord: Igor Samgin
+4. Github @Frost704
 
 ## 3. About me 
 
