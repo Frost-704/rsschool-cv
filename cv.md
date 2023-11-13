@@ -35,11 +35,11 @@ My goal is to make high quality products that will be easy and convenient for pe
 function maskify(str) {
 const length = str.length;
 const n = 4;
+let result = '';
 if (length < n) {
  return str; 
 }
 const last = str.slice(length - n);
-let result = '';
 for (let i = 0; i < length - n; i += 1) {
   result += '#';
 }
